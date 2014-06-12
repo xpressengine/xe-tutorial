@@ -44,7 +44,7 @@ SELECT * FROM member WHERE user_id = ':user_id';
 
 ### operation 속성
 
-`<condition>` 요소의 `operation` 속성은 조건 연산자 지정합니다. 아래의 연산자를 가질 수 있습니다.
+`<condition>` 요소의 `operation` 속성은 조건의 연산자를 지정합니다. 아래와 같은 연산자를 사용할 수 있습니다.
 
 연산자 | 의미
 -----|----

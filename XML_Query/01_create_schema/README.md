@@ -16,7 +16,6 @@
 - [UPDATE 쿼리](/XML_Query/11_update_query/)
 - [DELETE 쿼리](/XML_Query/12_delete_query/)
 - [XML 쿼리 실행하기](/XML_Query/13_execute_query/)
->>>>>>> 링크 정리
 
 <!-- index end -->
 

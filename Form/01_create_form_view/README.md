@@ -2,8 +2,8 @@
 
 - [폼 사용](../)
  - 폼 뷰 생성
- - [XML 룰셋 파일과 컨트롤러 액션 추가](./02_ruleset_and_controller_action)
- - [인사 메시지 출력](./03_print_hello_world)
+ - [XML 룰셋 파일과 컨트롤러 액션 추가](../02_ruleset_and_controller_action)
+ - [인사 메시지 출력](../03_print_hello_world)
 
 ## 폼 뷰 생성
 

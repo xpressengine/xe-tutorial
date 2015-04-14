@@ -1,23 +1,18 @@
 # XML Query
 
-<!-- index start -->
-
-- [Quick Start](/XML_Query)
-- [테이블 생성하기](/XML_Query/01_create_schema/)
-- [테이블 변경하기](/XML_Query/02_alter_schema/)
-- [XML 쿼리 기본](/XML_Query/03_xml_query/)
-- [SELECT 쿼리 - 기본](/XML_Query/04_select_query_basic/)
-- [SELECT 쿼리 - GROUP BY절](/XML_Query/05_select_query_with_groupby/)
-- [SELECT 쿼리 - WHERE절](/XML_Query/06_select_query_with_where/)
-- [SELECT 쿼리 - ORDER BY절](/XML_Query/07_select_query_with_navigation/)
-- [SELECT 쿼리 - JOIN절](/XML_Query/08_select_query_with_join/)
-- [SELECT 쿼리 - 서브쿼리](/XML_Query/09_select_query_with_subquery/)
-- [INSERT 쿼리](/XML_Query/10_insert_query/)
-- [UPDATE 쿼리](/XML_Query/11_update_query/)
-- [DELETE 쿼리](/XML_Query/12_delete_query/)
-- [XML 쿼리 실행하기](/XML_Query/13_execute_query/)
-
-<!-- index end -->
+- [테이블 생성하기](./01_create_schema)
+- [테이블 변경하기](./02_alter_schema)
+- [XML 쿼리 기본](./03_xml_query)
+- [SELECT 쿼리 - 기본](./04_select_query_basic)
+- [SELECT 쿼리 - GROUP BY절](./05_select_query_with_groupby)
+- [SELECT 쿼리 - WHERE절](./06_select_query_with_where)
+- [SELECT 쿼리 - ORDER BY절](./07_select_query_with_navigation)
+- [SELECT 쿼리 - JOIN절](./08_select_query_with_join)
+- [SELECT 쿼리 - 서브쿼리](./09_select_query_with_subquery)
+- [INSERT 쿼리](./10_insert_query)
+- [UPDATE 쿼리](./11_update_query)
+- [DELETE 쿼리](./12_delete_query)
+- [XML 쿼리 실행하기](./13_execute_query)
 
 ## Quick Start
 
